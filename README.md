@@ -1,3 +1,6 @@
 # OrangeClicker
 
-WIP
+# Features
+- Cps limit
+- foreground/taskbar inclusive options
+- TBD
